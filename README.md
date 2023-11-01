@@ -1,1 +1,2 @@
-# StreamlitとPlotlyを使ったダッシュボード
+# Streamlitを使ったwebアプリ
+
