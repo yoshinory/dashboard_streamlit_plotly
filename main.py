@@ -12,8 +12,5 @@ df = pd.DataFrame({
     '2列目':[10,20,30,40]
 })
 
-st.dataframe(df)
-
-st.dataframe(df)
 st.write('DataFrame')
 st.write('DataFrame')
