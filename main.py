@@ -12,5 +12,6 @@ df = pd.DataFrame({
     '2列目':[10,20,30,40]
 })
 
+st.write(df)
 st.write('DataFrame')
 st.write('DataFrame')
