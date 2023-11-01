@@ -15,3 +15,5 @@ df = pd.DataFrame({
 st.dataframe(df)
 
 st.dataframe(df)
+st.write('DataFrame')
+st.write('DataFrame')
