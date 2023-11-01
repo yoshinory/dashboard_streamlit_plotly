@@ -1,1 +1,1 @@
-# dashboard_streamlit_plotly
+# StreamlitとPlotlyを使ったダッシュボード
