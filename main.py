@@ -13,5 +13,6 @@ df = pd.DataFrame({
 })
 
 st.write(df)
+st.write(df)
 st.write('DataFrame')
 st.write('DataFrame')
